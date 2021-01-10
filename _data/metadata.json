@@ -1,0 +1,27 @@
+{
+  "title": "Seiichi Yonezawa",
+  "url": "https://www.seiichiyonezawa.com",
+  "domain": "www.seiichiyonezawa.com",
+  "description": "Seiichi Yonezawaの個人ブログです。",
+  "genre": "person",
+  "lang": "ja",
+  "sendWebVitals": false,
+  "feed": {
+    "subtitle": "Seiichi Yonezawa's Blog",
+    "filename": "feed.xml",
+    "path": "/feed/feed.xml",
+    "id": "https://www.seiichiyonezawa.com"
+  },
+  "jsonfeed": {
+    "path": "/feed/feed.json",
+    "url": "https://www.seiichiyonezawa.com/feed/feed.json"
+  },
+  "author": {
+    "name": "Seiichi Yonezawa",
+    "twitterHandle": "nzwsch",
+    "githubHandle": "nzwsch"
+  },
+  "publisher": {
+    "name": "Seiichi Yonezawa"
+  }
+}

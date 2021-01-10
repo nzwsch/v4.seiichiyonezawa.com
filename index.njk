@@ -1,0 +1,12 @@
+---
+title: Seiichi Yonezawa's Blog
+layout: layouts/home.njk
+description: Seiichi Yonezawaの個人ブログです。
+date: Last Modified
+---
+
+<div id="posts">
+  <h2>最近の投稿</h2>
+  {% set postslist = collections.posts %}
+  {% include "postslist.njk" %}
+</div>

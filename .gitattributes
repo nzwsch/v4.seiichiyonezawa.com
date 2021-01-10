@@ -1,0 +1,4 @@
+fonts/*.woff      filter=lfs diff=lfs merge=lfs -text
+fonts/*.woff2     filter=lfs diff=lfs merge=lfs -text
+img/favicon/*.ico filter=lfs diff=lfs merge=lfs -text
+img/favicon/*.png filter=lfs diff=lfs merge=lfs -text

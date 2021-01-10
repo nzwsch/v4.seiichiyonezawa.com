@@ -1,8 +1,0 @@
-baseURL: https://seiichiyonezawa.com/
-languageCode: ja
-title: Seiichi Yonezawa
-theme: ananke
-
-params:
-  github: https://github.com/nzwsch
-  twitter: https://twitter.com/nzwsch
