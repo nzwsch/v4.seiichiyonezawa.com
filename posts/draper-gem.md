@@ -1,5 +1,5 @@
 ---
-title: "Draperの導入"
+title: "Rails: Draperの導入"
 description: 今年の1月からRailsの仕事を始めました。Railsの保守開発は数年ぶりですが、それ以上にテストをしっかり書く文化の会社の業務に携わる機会は初めてなので興奮しています。興味本位や全く聞いたことのないgemも多いのですが、今回はDraperというgemを紹介します。
 date: 2021-02-04T20:34:27+09:00
 draft: true
